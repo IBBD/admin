@@ -1,0 +1,13 @@
+{
+    "name": "ibbd/admin",
+    "description": "这是一个通用的后台管理系统。",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alex cai",
+            "email": "cyy0523xc@gmail.com"
+        }
+    ],
+    "require": {}
+}
